@@ -5,7 +5,7 @@
     - Hyödyt?
     - Rajoitteet?
 3. Miten saan siirrettyä tiedostoja omalta koneeltani virtuaaliympäristöön?
-4. Miten saan siirrettyä ssh-avaimen virtuaaliympäristöön?
+4. Miten saan siirrettyä [ssh-avaimen](https://github.com/lisker-org/DeveloperManual/blob/sql-guide/Guides/git-instructions.md) virtuaaliympäristöön?
 5. Miten käännän projekteja virtuaaliympäristössä?
 
 ## Harjoituksia
