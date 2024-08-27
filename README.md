@@ -14,5 +14,4 @@
 
 - [C++Builder 1](https://github.com/lisker-org/Toimitusprojektit/tree/Sveden-Tra/Ragsveden/RagsvedenAsetePC-initial)
 - [C++Builder 5](https://github.com/lisker-org/Toimitusprojektit/tree/Versowood/Otava/PS2GigEOtava-initial)
-- [C++Builder 10.2]()
-- [C++Builder 10.4]()
+- [C++Builder 10.2](https://github.com/lisker-org/Toimitusprojektit/tree/Lapuan-Saha/Lapua/PS1GigELapua_CX-initial)
