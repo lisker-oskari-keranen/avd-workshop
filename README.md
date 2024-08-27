@@ -10,6 +10,8 @@
 
 ## Harjoituksia
 
+[Yleisiä ohjeita](https://github.com/lisker-org/DeveloperManual/blob/sql-guide/Guides/common-build-instructions.md)
+
 - [C++Builder 1](https://github.com/lisker-org/Toimitusprojektit/tree/Binderholz/Nurmes/NuAsetePC-muutokset)
 - [C++Builder 5]()
 - [C++Builder 10.2]()
