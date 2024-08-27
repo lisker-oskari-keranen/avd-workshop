@@ -1,6 +1,6 @@
 # Azuren virtuaaliympäristö (AVD)
 
-1. Miten virtuaaliympäristö käynnistetään?
+1. Miten virtuaaliympäristö käynnistetään/suljetaan?
 2. Mikä virtuaaliympäristö on?
     - Hyödyt?
     - Rajoitteet?
